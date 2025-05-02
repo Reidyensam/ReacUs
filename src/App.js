@@ -39,11 +39,17 @@ cambiarFiltro = (event) => {
 
 
 render(){
+
+  console.log("Renderizando App.js");
+  console.log("Empleados cargados:", this.state.empleados);
 // Filtrar empleados según la opción seleccionada
 const empleadosFiltrados = this.state.empleados.filter((empleado) => {
   if (this.state.filtro === "activos") return empleado.activo;
   if (this.state.filtro === "inactivos") return !empleado.activo;
   return true; // "todos" muestra todos
+
+  
+
 });
 
 
