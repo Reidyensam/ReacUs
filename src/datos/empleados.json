@@ -1,0 +1,15 @@
+[
+    { "id": 1, "nombre": "Juan", "apellido": "Pérez", "cargo": "Desarrollador", "activo": true },
+    { "id": 2, "nombre": "Ana", "apellido": "Gómez", "cargo": "Diseñadora", "activo": false },
+            { "id": 3, "nombre": "Carlos", "apellido": "Fernández", "cargo": "Analista de Datos", "activo": true },
+        { "id": 4, "nombre": "María", "apellido": "Rodríguez", "cargo": "Marketing Digital", "activo": false },
+        { "id": 5, "nombre": "Luis", "apellido": "Martínez", "cargo": "Administrador de Sistemas", "activo": true },
+        { "id": 6, "nombre": "Sofía", "apellido": "López", "cargo": "Diseñadora UX/UI", "activo": false },
+        { "id": 7, "nombre": "Pedro", "apellido": "García", "cargo": "Especialista en Redes", "activo": true },
+        { "id": 8, "nombre": "Elena", "apellido": "Hernández", "cargo": "Ejecutiva de Ventas", "activo": false },
+        { "id": 9, "nombre": "Javier", "apellido": "Torres", "cargo": "Desarrollador Backend", "activo": true },
+        { "id": 10, "nombre": "Carmen", "apellido": "Gómez", "cargo": "Scrum Master", "activo": false },
+        { "id": 11, "nombre": "Raúl", "apellido": "Díaz", "cargo": "Tester QA", "activo": true },
+        { "id": 12, "nombre": "Paula", "apellido": "Castillo", "cargo": "Project Manager", "activo": false }
+    
+  ]
